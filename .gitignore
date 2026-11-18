@@ -1,0 +1,10 @@
+# Dependencias de PHP (se regeneran con: composer install) 
+vendor/
+
+# Configuración local y secretos (nunca se suben) 
+.env.local
+*.log
+
+#Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
